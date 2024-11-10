@@ -21,3 +21,12 @@ pip install cryptography
 
 Note: Create virtual enviroment for each file to avoid errors. 
 
+## Contributing
+
+We welcome contributions to SecureWave! If you have any ideas or improvements, please feel free to submit a pull request or open an issue.
+
+## Contact
+
+For any inquiries or support, please contact parikhharsh8545@gmail.com.
+
+

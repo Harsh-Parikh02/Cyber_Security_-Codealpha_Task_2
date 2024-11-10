@@ -1,0 +1,407 @@
+2024-11-10 17:40:32,901 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:40:58,054 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:40:58,055 - INFO - Connection from ('127.0.0.1', 34034)
+2024-11-10 17:40:58,055 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 17:40:58,056 - INFO - File input.txt sent successfully.
+2024-11-10 17:40:58,056 - INFO - File input.txt.enc received successfully.
+2024-11-10 17:40:58,056 - ERROR - Decryption failed: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 17:41:05,529 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:41:07,646 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:41:07,647 - INFO - Connection from ('127.0.0.1', 58068)
+2024-11-10 17:41:07,647 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 17:41:07,648 - INFO - File input.txt sent successfully.
+2024-11-10 17:41:07,678 - INFO - File input.txt.enc received successfully.
+2024-11-10 17:41:07,678 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 17:41:27,542 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:41:49,936 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:41:49,937 - INFO - Connection from ('127.0.0.1', 49908)
+2024-11-10 17:41:49,940 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 17:41:49,940 - INFO - File input.txt sent successfully.
+2024-11-10 17:41:49,940 - INFO - File input.txt.enc received successfully.
+2024-11-10 17:41:49,941 - ERROR - Decryption failed: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 17:41:56,811 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:41:56,814 - INFO - Connection from ('127.0.0.1', 49920)
+2024-11-10 17:41:56,815 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 17:41:56,815 - INFO - File input.txt sent successfully.
+2024-11-10 17:41:56,816 - INFO - File input.txt.enc received successfully.
+2024-11-10 17:41:56,816 - ERROR - Decryption failed: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 17:43:45,283 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:43:45,284 - INFO - Connection from ('127.0.0.1', 58844)
+2024-11-10 17:43:45,284 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 17:43:45,285 - INFO - File input.txt sent successfully.
+2024-11-10 17:43:45,285 - INFO - File input.txt.enc received successfully.
+2024-11-10 17:43:45,285 - ERROR - Decryption failed: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 17:43:56,656 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:43:56,657 - INFO - File input.txt sent successfully.
+2024-11-10 17:43:56,657 - INFO - Connection from ('127.0.0.1', 45994)
+2024-11-10 17:44:02,824 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:44:07,131 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:44:07,132 - INFO - Connection from ('127.0.0.1', 41764)
+2024-11-10 17:44:07,132 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 17:44:07,133 - INFO - File input.txt sent successfully.
+2024-11-10 17:44:07,133 - INFO - File input.txt.enc received successfully.
+2024-11-10 17:44:07,133 - ERROR - Decryption failed: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 17:48:28,563 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:48:49,578 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:48:53,121 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:48:53,121 - INFO - Connection from ('127.0.0.1', 38298)
+2024-11-10 17:48:53,121 - INFO - File input.txt sent successfully.
+2024-11-10 17:49:05,102 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 17:49:08,346 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 17:49:08,346 - INFO - File input.txt sent successfully.
+2024-11-10 17:49:08,349 - INFO - Connection from ('127.0.0.1', 57758)
+2024-11-10 18:22:14,686 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 18:22:33,413 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 18:22:33,413 - INFO - Connection from ('127.0.0.1', 43016)
+2024-11-10 18:22:33,414 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 18:22:33,414 - INFO - File input.txt sent successfully.
+2024-11-10 18:22:33,414 - INFO - File input.txt.enc received successfully.
+2024-11-10 18:22:33,415 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 18:22:44,029 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 18:22:44,030 - INFO - Connection from ('127.0.0.1', 54590)
+2024-11-10 18:22:44,030 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 18:22:44,031 - INFO - File input.txt sent successfully.
+2024-11-10 18:22:44,031 - INFO - File input.txt.enc received successfully.
+2024-11-10 18:22:44,031 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 18:22:54,177 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 18:22:56,000 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 18:22:56,001 - INFO - Connection from ('127.0.0.1', 51568)
+2024-11-10 18:22:56,002 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 18:22:56,002 - INFO - File input.txt sent successfully.
+2024-11-10 18:22:56,003 - INFO - File input.txt.enc received successfully.
+2024-11-10 18:22:56,003 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:39:59,527 - INFO - Connection from ('127.0.0.1', 40766)
+2024-11-10 19:40:05,113 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:40:08,711 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:40:12,939 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:40:17,271 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:40:17,275 - INFO - Connection from ('127.0.0.1', 48288)
+2024-11-10 19:40:17,275 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:40:17,276 - INFO - File input.txt sent successfully.
+2024-11-10 19:40:17,289 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:40:17,290 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:47:26,926 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:47:29,487 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:47:29,487 - INFO - Connection from ('127.0.0.1', 33218)
+2024-11-10 19:47:29,487 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:47:29,488 - INFO - File input.txt sent successfully.
+2024-11-10 19:47:29,488 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:47:29,488 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:48:04,917 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:48:04,918 - INFO - Connection from ('127.0.0.1', 42828)
+2024-11-10 19:48:04,918 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:48:04,918 - INFO - File input.txt sent successfully.
+2024-11-10 19:48:05,162 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:48:05,162 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:48:06,175 - INFO - Connection from ('127.0.0.1', 42842)
+2024-11-10 19:48:06,176 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:48:06,176 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:48:06,176 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:48:18,839 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:48:18,840 - INFO - Connection from ('127.0.0.1', 42374)
+2024-11-10 19:48:18,841 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:48:18,841 - INFO - File input.txt sent successfully.
+2024-11-10 19:48:18,842 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:48:18,842 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:48:24,128 - INFO - Connection from ('127.0.0.1', 42378)
+2024-11-10 19:49:04,064 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:49:07,083 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:49:11,252 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:49:11,253 - INFO - Connection from ('127.0.0.1', 51122)
+2024-11-10 19:49:11,253 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:49:11,254 - INFO - File input.txt sent successfully.
+2024-11-10 19:49:11,254 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:49:11,254 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:50:56,842 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:50:56,843 - INFO - Connection from ('127.0.0.1', 42602)
+2024-11-10 19:50:56,843 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:50:56,843 - INFO - File input.txt sent successfully.
+2024-11-10 19:50:56,851 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:50:56,851 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:51:09,911 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:51:09,911 - INFO - Connection from ('127.0.0.1', 37726)
+2024-11-10 19:51:09,912 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:51:09,912 - INFO - File input.txt sent successfully.
+2024-11-10 19:51:09,912 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:51:09,912 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:51:55,775 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:51:57,925 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:51:57,925 - INFO - Connection from ('127.0.0.1', 52816)
+2024-11-10 19:51:57,925 - INFO - File input.txt sent successfully.
+2024-11-10 19:52:02,845 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:52:34,112 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:52:37,038 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:52:37,038 - INFO - Connection from ('127.0.0.1', 44382)
+2024-11-10 19:52:37,039 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:52:37,039 - INFO - File input.txt sent successfully.
+2024-11-10 19:52:37,040 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:52:37,040 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:52:42,986 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:52:42,987 - INFO - Connection from ('127.0.0.1', 54320)
+2024-11-10 19:52:42,987 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:52:42,988 - INFO - File input.txt sent successfully.
+2024-11-10 19:52:42,988 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:52:42,989 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:52:44,632 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:52:44,634 - INFO - File input.txt sent successfully.
+2024-11-10 19:52:44,637 - INFO - Connection from ('127.0.0.1', 54330)
+2024-11-10 19:52:45,542 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:52:50,794 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:52:53,404 - INFO - Connection from ('127.0.0.1', 46296)
+2024-11-10 19:52:58,838 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:53:01,297 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:53:01,298 - INFO - Connection from ('127.0.0.1', 60660)
+2024-11-10 19:53:01,299 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:53:01,299 - INFO - File input.txt sent successfully.
+2024-11-10 19:53:01,299 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:53:01,299 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:53:34,762 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:53:36,623 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:53:36,629 - INFO - Connection from ('127.0.0.1', 50472)
+2024-11-10 19:53:36,629 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:53:36,629 - INFO - File input.txt sent successfully.
+2024-11-10 19:53:36,629 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:53:36,630 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:55:22,144 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:55:24,653 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:55:24,654 - INFO - File input.txt sent successfully.
+2024-11-10 19:55:24,654 - INFO - Connection from ('127.0.0.1', 44864)
+2024-11-10 19:55:24,654 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0x8e in position 17: invalid start byte
+2024-11-10 19:55:44,712 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:55:44,712 - INFO - Connection from ('127.0.0.1', 45210)
+2024-11-10 19:55:44,712 - INFO - File input.txt sent successfully.
+2024-11-10 19:55:44,713 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0x8f in position 18: invalid start byte
+2024-11-10 19:57:05,214 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:57:14,452 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:57:18,093 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:57:18,093 - INFO - Connection from ('127.0.0.1', 43510)
+2024-11-10 19:57:18,093 - INFO - File input.txt sent successfully.
+2024-11-10 19:57:18,093 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xce in position 18: invalid continuation byte
+2024-11-10 19:57:28,754 - INFO - Connection from ('127.0.0.1', 45254)
+2024-11-10 19:57:28,754 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:57:28,754 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:57:28,754 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 19:57:28,755 - ERROR - Error during decryption: Invalid IV size read from the file.
+2024-11-10 19:59:24,781 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 19:59:42,608 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:59:42,609 - INFO - Connection from ('127.0.0.1', 33616)
+2024-11-10 19:59:42,609 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 19:59:42,610 - INFO - File input.txt sent successfully.
+2024-11-10 19:59:42,610 - INFO - File input.txt.enc received successfully.
+2024-11-10 19:59:42,610 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 19:59:54,521 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 19:59:54,521 - INFO - File input.txt sent successfully.
+2024-11-10 19:59:54,523 - INFO - Connection from ('127.0.0.1', 40178)
+2024-11-10 19:59:54,524 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0x80 in position 3: invalid start byte
+2024-11-10 20:00:17,793 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 20:00:17,794 - INFO - Connection from ('127.0.0.1', 36508)
+2024-11-10 20:00:17,794 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 20:00:17,794 - INFO - File input.txt sent successfully.
+2024-11-10 20:00:17,794 - INFO - File input.txt.enc received successfully.
+2024-11-10 20:00:17,794 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:17:12,859 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:17:22,483 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:17:22,484 - INFO - Connection from ('127.0.0.1', 55814)
+2024-11-10 21:17:22,484 - INFO - File input.txt sent successfully.
+2024-11-10 21:17:22,484 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xb3 in position 16: invalid start byte
+2024-11-10 21:17:33,532 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:17:33,533 - INFO - Connection from ('127.0.0.1', 50650)
+2024-11-10 21:17:33,533 - INFO - File input.txt sent successfully.
+2024-11-10 21:17:33,534 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xe2 in position 16: invalid continuation byte
+2024-11-10 21:17:37,074 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:17:37,074 - INFO - File input.txt sent successfully.
+2024-11-10 21:17:37,074 - INFO - Connection from ('127.0.0.1', 50274)
+2024-11-10 21:17:37,074 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xf7 in position 18: invalid start byte
+2024-11-10 21:18:55,140 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:18:55,141 - INFO - Connection from ('127.0.0.1', 42550)
+2024-11-10 21:18:55,142 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xda in position 0: invalid continuation byte
+2024-11-10 21:18:55,143 - INFO - File input.txt sent successfully.
+2024-11-10 21:19:03,665 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:19:03,665 - INFO - Connection from ('127.0.0.1', 42566)
+2024-11-10 21:19:03,665 - INFO - File input.txt sent successfully.
+2024-11-10 21:19:03,665 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xa7 in position 16: invalid start byte
+2024-11-10 21:24:28,347 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:24:34,040 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:24:36,690 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:24:36,690 - INFO - Connection from ('127.0.0.1', 52962)
+2024-11-10 21:24:36,691 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:24:36,691 - INFO - File input.txt sent successfully.
+2024-11-10 21:24:36,691 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:24:36,691 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:24:54,340 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:24:54,341 - INFO - Connection from ('127.0.0.1', 45266)
+2024-11-10 21:24:54,341 - INFO - File input.txt sent successfully.
+2024-11-10 21:24:54,341 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xe3 in position 17: invalid continuation byte
+2024-11-10 21:25:41,517 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:25:41,518 - INFO - Connection from ('127.0.0.1', 52332)
+2024-11-10 21:25:41,518 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:25:41,518 - INFO - File input.txt sent successfully.
+2024-11-10 21:25:41,519 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:25:41,519 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:13,098 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:13,100 - INFO - Connection from ('127.0.0.1', 53724)
+2024-11-10 21:27:13,101 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:13,102 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:13,103 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:13,103 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:23,625 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:23,626 - INFO - Connection from ('127.0.0.1', 60554)
+2024-11-10 21:27:23,626 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:23,627 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:23,627 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:23,628 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:34,119 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:34,120 - INFO - Connection from ('127.0.0.1', 49726)
+2024-11-10 21:27:34,120 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:34,120 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:34,121 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:34,121 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:35,568 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:35,569 - INFO - Connection from ('127.0.0.1', 54324)
+2024-11-10 21:27:35,569 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:35,569 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:35,569 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:35,570 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:36,404 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:36,407 - INFO - Connection from ('127.0.0.1', 54328)
+2024-11-10 21:27:36,407 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:36,407 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:36,408 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:36,408 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:36,973 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:36,974 - INFO - Connection from ('127.0.0.1', 54338)
+2024-11-10 21:27:36,974 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xfe in position 16: invalid start byte
+2024-11-10 21:27:36,974 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:37,295 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:37,296 - INFO - Connection from ('127.0.0.1', 54350)
+2024-11-10 21:27:37,297 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:37,297 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:37,298 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:37,298 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:37,660 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:37,660 - INFO - Connection from ('127.0.0.1', 54366)
+2024-11-10 21:27:37,660 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:37,661 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xda in position 16: invalid continuation byte
+2024-11-10 21:27:38,000 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:38,003 - INFO - Connection from ('127.0.0.1', 54368)
+2024-11-10 21:27:38,004 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:38,004 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:38,020 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:38,020 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:27:38,332 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:27:38,333 - INFO - Connection from ('127.0.0.1', 54370)
+2024-11-10 21:27:38,334 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:27:38,334 - INFO - File input.txt sent successfully.
+2024-11-10 21:27:38,350 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:27:38,351 - ERROR - Error during decryption: Invalid key size for AES. Key must be 16, 24, or 32 bytes.
+2024-11-10 21:28:43,415 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:28:50,694 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:28:50,695 - INFO - Connection from ('127.0.0.1', 33584)
+2024-11-10 21:28:50,696 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:28:50,696 - INFO - File input.txt sent successfully.
+2024-11-10 21:28:50,696 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:28:50,696 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 21:28:50,697 - ERROR - Error during decryption: Invalid IV size read from the file.
+2024-11-10 21:31:31,121 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:33:43,384 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:40:40,662 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:40:44,344 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:40:44,344 - INFO - Connection from ('127.0.0.1', 47010)
+2024-11-10 21:40:44,344 - INFO - File input.txt sent successfully.
+2024-11-10 21:40:44,344 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0xb0 in position 17: invalid start byte
+2024-11-10 21:42:09,807 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:42:13,775 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:42:13,775 - INFO - Connection from ('127.0.0.1', 51352)
+2024-11-10 21:42:13,778 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:42:13,778 - INFO - File input.txt sent successfully.
+2024-11-10 21:42:13,778 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:42:13,779 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 21:42:13,779 - ERROR - Error during decryption: Invalid IV size read from the file.
+2024-11-10 21:43:48,045 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:43:51,100 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:43:51,101 - INFO - Connection from ('127.0.0.1', 38622)
+2024-11-10 21:43:51,101 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:43:51,102 - INFO - File input.txt sent successfully.
+2024-11-10 21:43:51,103 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:43:51,103 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 21:43:51,103 - ERROR - Error during decryption: Invalid IV size read from the file.
+2024-11-10 21:43:54,454 - INFO - File encrypted and saved as input.txt.enc.
+2024-11-10 21:43:54,455 - INFO - Connection from ('127.0.0.1', 38636)
+2024-11-10 21:43:54,455 - INFO - Receiving file: input.txt.enc of size 160 bytes
+2024-11-10 21:43:54,455 - INFO - File input.txt sent successfully.
+2024-11-10 21:43:54,456 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:43:54,456 - ERROR - Decryption failed: Invalid IV size read from the file.
+2024-11-10 21:43:54,456 - ERROR - Error during decryption: Invalid IV size read from the file.
+2024-11-10 21:45:15,883 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:45:19,608 - INFO - File input.txt sent successfully.
+2024-11-10 21:45:19,608 - INFO - Connection from ('127.0.0.1', 45790)
+2024-11-10 21:45:19,608 - ERROR - Error while handling client: 'utf-8' codec can't decode byte 0x84 in position 14: invalid start byte
+2024-11-10 21:47:24,231 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:47:27,301 - INFO - File input.txt sent successfully.
+2024-11-10 21:47:27,301 - INFO - Connection from ('127.0.0.1', 59528)
+2024-11-10 21:47:27,301 - ERROR - Error while handling client: invalid literal for int() with base 10: ''
+2024-11-10 21:47:40,378 - INFO - Connection from ('127.0.0.1', 50584)
+2024-11-10 21:47:40,378 - INFO - Receiving file: input.txt of size 160 bytes
+2024-11-10 21:47:40,378 - INFO - File input.txt received successfully.
+2024-11-10 21:47:40,386 - INFO - File input.txt sent successfully.
+2024-11-10 21:47:40,396 - INFO - File decrypted and saved as input.txt.
+2024-11-10 21:50:12,571 - INFO - Connection from ('127.0.0.1', 39406)
+2024-11-10 21:50:12,571 - INFO - Receiving file: input.txt of size 144 bytes
+2024-11-10 21:50:12,572 - INFO - File input.txt received successfully.
+2024-11-10 21:50:12,572 - INFO - File decrypted and saved as input.txt.
+2024-11-10 21:50:12,574 - INFO - File input.txt sent successfully.
+2024-11-10 21:55:30,575 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:55:34,239 - INFO - Encrypted file written as input.txt.enc.
+2024-11-10 21:55:34,239 - INFO - Connection from ('127.0.0.1', 42690)
+2024-11-10 21:55:34,239 - INFO - Receiving file: input.txt.enc of size 144 bytes
+2024-11-10 21:55:34,240 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:55:34,240 - INFO - Copy of encrypted file saved as received_input.txt.enc.copy.
+2024-11-10 21:55:34,246 - INFO - File input.txt sent successfully.
+2024-11-10 21:55:34,258 - INFO - File decrypted and saved as input.txt.dec.
+2024-11-10 21:59:31,734 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 21:59:33,670 - INFO - Encrypted file written as input.txt.enc.
+2024-11-10 21:59:33,671 - INFO - Connection from ('127.0.0.1', 46922)
+2024-11-10 21:59:33,672 - INFO - Receiving file: input.txt.enc of size 144 bytes
+2024-11-10 21:59:33,672 - INFO - File input.txt.enc received successfully.
+2024-11-10 21:59:33,672 - INFO - Copy of encrypted file saved as received_input.txt.enc.copy.
+2024-11-10 21:59:33,684 - INFO - File input.txt sent successfully.
+2024-11-10 21:59:33,690 - INFO - File decrypted and saved as input.txt.dec.
+2024-11-10 22:09:03,708 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 22:09:06,052 - INFO - Encrypted file written as encrypted_sent.txt.enc.
+2024-11-10 22:09:06,053 - INFO - Connection from ('127.0.0.1', 38024)
+2024-11-10 22:09:06,053 - INFO - Receiving file: encrypted_sent.txt.enc of size 176 bytes
+2024-11-10 22:09:06,053 - INFO - File encrypted_sent.txt.enc received successfully.
+2024-11-10 22:09:06,053 - INFO - Copy of encrypted file saved as encrypted_received.txt.dec.copy.
+2024-11-10 22:09:06,061 - INFO - File input.txt sent successfully.
+2024-11-10 22:09:06,074 - INFO - File decrypted and saved as Output.txt.
+2024-11-10 22:11:37,054 - INFO - Encrypted file written as encrypted_sent.txt.enc.
+2024-11-10 22:11:37,055 - INFO - Connection from ('127.0.0.1', 44860)
+2024-11-10 22:11:37,055 - INFO - Receiving file: encrypted_sent.txt.enc of size 208 bytes
+2024-11-10 22:11:37,055 - INFO - File encrypted_sent.txt.enc received successfully.
+2024-11-10 22:11:37,056 - INFO - Copy of encrypted file saved as encrypted_received.txt.dec.copy.
+2024-11-10 22:11:37,056 - INFO - File decrypted and saved as Output.txt.
+2024-11-10 22:11:37,056 - INFO - File input.txt sent successfully.
+2024-11-10 22:12:39,772 - INFO - Encrypted file written as encrypted_sent.txt.enc.
+2024-11-10 22:12:39,773 - INFO - Connection from ('127.0.0.1', 54582)
+2024-11-10 22:12:39,773 - INFO - Receiving file: encrypted_sent.txt.enc of size 208 bytes
+2024-11-10 22:12:39,774 - INFO - File encrypted_sent.txt.enc received successfully.
+2024-11-10 22:12:39,774 - INFO - Copy of encrypted file saved as encrypted_received.txt.dec.copy.
+2024-11-10 22:12:39,775 - INFO - File decrypted and saved as Output.txt.
+2024-11-10 22:12:39,776 - INFO - File input.txt sent successfully.
+2024-11-10 22:14:45,920 - INFO - Server listening on 0.0.0.0:5000
+2024-11-10 22:14:48,109 - INFO - Encrypted file written as encrypted_sent.txt.enc.
+2024-11-10 22:14:48,109 - INFO - Connection from ('127.0.0.1', 57168)
+2024-11-10 22:14:48,110 - INFO - Receiving file: encrypted_sent.txt.enc of size 208 bytes
+2024-11-10 22:14:48,110 - INFO - File encrypted_sent.txt.enc received successfully.
+2024-11-10 22:14:48,113 - INFO - File input.txt sent successfully.
+2024-11-10 22:14:48,127 - INFO - File decrypted and saved as Output.txt.
+2024-11-10 22:15:35,714 - INFO - Encrypted file written as encrypted_sent.txt.enc.
+2024-11-10 22:15:35,714 - INFO - File input.txt sent successfully.
+2024-11-10 22:15:35,714 - INFO - Connection from ('127.0.0.1', 54084)
+2024-11-10 22:15:35,714 - ERROR - Error while handling client: invalid literal for int() with base 10: ''
+2024-11-10 22:15:39,847 - INFO - Encrypted file written as encrypted_sent.txt.enc.
+2024-11-10 22:15:39,848 - INFO - Connection from ('127.0.0.1', 54088)
+2024-11-10 22:15:39,848 - INFO - Receiving file: encrypted_sent.txt.enc of size 208 bytes
+2024-11-10 22:15:39,849 - INFO - File input.txt sent successfully.
+2024-11-10 22:15:39,850 - INFO - File encrypted_sent.txt.enc received successfully.
+2024-11-10 22:15:39,850 - INFO - File decrypted and saved as Output.txt.

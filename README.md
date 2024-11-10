@@ -19,3 +19,5 @@ You can install the `cryptography` library using pip:
 
 pip install cryptography
 
+Note: Create virtual enviroment for each file to avoid errors. 
+
